@@ -9,7 +9,7 @@ from PyQt5.QtWidgets import (QApplication, QMainWindow, QTreeView, QFileSystemMo
 from PyQt5.QtCore import QDir, QFile, Qt, QUrl, QThread, pyqtSignal
 from PyQt5.QtGui import QDesktopServices, QPixmap, QImageReader
 from PyQt5.QtCore import QSettings
-from new_git_logic import GitManager
+from git_logic import GitManager
 from utils import *
 
 # Worker thread for Git push operations

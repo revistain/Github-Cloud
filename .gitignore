@@ -1,3 +1,6 @@
 .env
 settings.json
 legacy/
+.split/
+.file_index/
+.vscode
